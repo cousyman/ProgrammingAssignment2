@@ -2,6 +2,8 @@
 ## The discussion forums were very helpful in finding material on this
 ## project.
 
+## And now I am fooling around seeing how to commit and push again.S
+
 
 ## This function creates a special matrix object that can cache its inverse
 
