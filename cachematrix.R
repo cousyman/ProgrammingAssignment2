@@ -6,7 +6,7 @@
 ## This function creates a special matrix object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
-  ##Initialize variables
+  ##Initialize variables 
   m <- NULL
   
   #Set the data
